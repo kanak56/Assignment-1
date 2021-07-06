@@ -1,12 +1,7 @@
 body{
     margin: 0;
 }
-.Heading{
-    font-family: 'Hanalei', cursive;
-    text-align: center;
-    font-size: 50px;
-    color: rgb(80, 83, 77);
-}
+
 .topnav {
     background-color: rgba(50, 58, 75, 0.521);
     overflow: hidden;
@@ -25,6 +20,12 @@ body{
     background-color: #ddd;
     color: black;
   }
+  .Heading{
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(80, 83, 77);
+}
 .introduction{
     display: flex;
     background-image: linear-gradient(rgb(122, 216, 185), rgb(255, 255, 255));
@@ -35,19 +36,18 @@ body{
 }
 .color-bamboo{
     color: rgb(98, 138, 35);
-    font-size: 30px;
+    font-size: 80px;
 }
 .About-bamboo{
-    padding-top: 15%;
+    padding-top: 4%;
     padding-left: 15%;
     padding-right: 20%;
     font-family: 'Crete Round';
-    text-align: justify;
     color: gray;
-    font-size: 20px;
+    font-size: 80px;
 }
 .About-bamboo1{
-    padding-top: 5%;
+    padding-top: 2%;
     font-size: 25px;
     font-family: 'Lobster';
     padding-left: 15%;
@@ -56,6 +56,7 @@ body{
 }
 .Order-now{
     padding-top: 5%;
+    padding-bottom: 20%;
 }
 .link-button1{
     font-size: 25px;
@@ -66,7 +67,8 @@ body{
     text-decoration: none;
     margin-left: 14%;
 }
-.panda{
+.Eating-food{
+    padding-top: 10%;
     padding-right: 4%;
     opacity: 90%;
 }
@@ -77,6 +79,7 @@ body{
     background-size: 100%;
     padding-top: 10%;
     padding-left: 15%;
+    padding-bottom: 5%;
 }
 .about-us-heading{
     color:gray;
@@ -106,6 +109,7 @@ body{
     color: grey;
     padding-left: 350px;
     padding-right: 350px;
+    padding-bottom: 100px;
 }
 .recipics-title1{
     text-align: center;
@@ -124,6 +128,7 @@ body{
     margin-bottom: 5%;
     text-align: justify;
     padding-left: 110px;
+    padding-bottom: 100px;
 }
 
 #recipics-border1{
